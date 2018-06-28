@@ -1,1 +1,3 @@
-testing1234jndjwndn
+Class Abc {
+@complete query : abc
+}
